@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>How Can I help you? You can say hello, good, bad, or goodbye</Say>
+  <Start>
+    <Stream url="wss://d08ca5a2.ngrok.io/"></Stream>
+  </Start>
+  <Pause length="40"/>
+</Response>
